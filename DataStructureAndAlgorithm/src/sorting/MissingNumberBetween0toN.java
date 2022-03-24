@@ -3,7 +3,7 @@ package sorting;
 public class MissingNumberBetween0toN {
 
 	public static void main(String[] args) {
-		int[] arr= {1,4,2,3,0};
+		int[] arr= {6,1,2,8,3,4,7,10,5};
          
          System.out.println(missingNumber(arr));
 	}
